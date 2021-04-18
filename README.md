@@ -15,5 +15,6 @@ def("env:")
     def("DESKTOPBOT_TOKEN:${{secrets,DESKTOPBOT_TOKEN}}")
     def("WINDOWS_CERT_PASSWORD:${{secrets,WINDOWS_CERT_PASSWORD}}")
     def("KEY_PASSWORD:${{secrets,KEY_PASSWORD}}")
+    TXT.docx
     
 
