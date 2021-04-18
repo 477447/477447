@@ -31,3 +31,5 @@ Pass additional 'git clone' flags by listing them after '--'.
 
 gh gist clone <gist> [<directory>] [-- <gitflags>...]
     
+gh gist clone <gist> [<directory>] [-- <gitflags>...]
+    
