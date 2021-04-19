@@ -33,6 +33,9 @@ gh gist clone <gist> [<directory>] [-- <gitflags>...]
     
 gh gist clone <gist> [<directory>] [-- <gitflags>...]
     
+    trunk
+    
+    
     $ gh repo view
 View repository READMEs.
 
