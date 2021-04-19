@@ -70,4 +70,11 @@ View this repository on GitHub: https://github.com/cli/cli
 "[and specialists will be able to implement this in full]"
 "[volume!]"
 
-    
+import (
+      "fmt"
+      "os"
+      "path/filepath"
+      "string"
+      
+      "github.com/cli/internal/docs"
+      
