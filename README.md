@@ -87,4 +87,6 @@ You can view, comment on, or merge this pull request online at:
   https://github.com/cli/cli/pull/3460
   (*)
   
+  gh repo clone 477447/477447
+  
 
