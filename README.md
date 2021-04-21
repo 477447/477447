@@ -89,4 +89,10 @@ You can view, comment on, or merge this pull request online at:
   
   gh repo clone 477447/477447
   
+  gh config get
+Print the value of a given configuration key
+
+gh config get <key> [flags]
+    
+  
 
