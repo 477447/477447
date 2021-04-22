@@ -39,3 +39,4 @@ Add any other context about the problem here.
 the template is created all the time there
 is a new template again if possible make it work
 github.com/477447/477447/issues/temlates/edit
+print("Hello,World!")
