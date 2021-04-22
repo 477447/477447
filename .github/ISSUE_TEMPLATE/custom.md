@@ -1,9 +1,13 @@
 ---
 name: Custom issue template
 about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+title: 'github.com/477447/477447/edit/main/.github/ISSUE_TEMPLATE/custom.md'
+
+labels: 'labels'
+
+assignees: 'github.com/477447'
+
+
 
 ---
 
