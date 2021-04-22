@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
-assignees: ''
+labels: documentation
+assignees: '477447'
 
 ---
 
@@ -68,4 +68,3 @@ OS: [e.g. iOS8.1]
 Browser [e.g. stock browser, safari]
 Version [e.g. 22]
 Additional context Add any other context about the problem here. the template is created all the time there is a new template again if possible make it work github.com/477447/477447/issues/temlates/edit print("Hello,World!")
-
