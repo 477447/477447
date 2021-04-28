@@ -15,8 +15,6 @@ A clear and concise description of what you want to happen.
 
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered.
-Ex.I'm always frustrated when [when l have l mean github page if something goes wrong]
-[you need too many scammers and intruders]
 
 **Additional context**
 Add any other context or screenshots about the feature request here.

@@ -5,8 +5,8 @@ title: github.com/477447/477447/edit/main/.github/ISSUE_TEMPLATE/custom.md
 labels: good first issue
 assignees: '477447'
 
-
 ---
+
 if possible let's give as many hints as possible so that l can earn approximately 1000.00 USD
 for my repositories every day
 
@@ -64,7 +64,3 @@ modification, are permited provided that the following conditions are met:
  "[ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, ]"
  "[ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE ]"
  "[ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. ]"
- 
- 
-
-
