@@ -48,8 +48,23 @@ You will be prompted to either authenticate using your browser, or to paste a to
     gh auth login --hostname <hostname>
     You will be prompted to either authenticate using your browser, or to paste a token.
     
-Commit: 89693ff20bf0861f14ce609efaae43cc12d91d38
 
-    Commit: e4fbf1ed69619c0b639e51b8fd188397b72c3365  
+gh config get
+Print the value of a given configuration key
+
+ gh config get <key> [flags]
+  
+  Examples
+  
+    $ gh config get git_protocol
+    https
     
+    Options
+         -h, --host string Get per-host setting
+         
+         Options inherited from parent commands
+         
+                 --help  Show help for command
+                 
+   
   
