@@ -65,6 +65,19 @@ Print the value of a given configuration key
          Options inherited from parent commands
          
                  --help  Show help for command
+           
+           
+ 
+                     $ gh pr checks
+                 View your pull reguests'checks.
                  
-   
-  
+     $ gh pr checks
+     All checks were successful
+     1 failing, 3 successful,and 1 pending checks
+     
+     - CodeQL                    3m43s     https://github.com/cli/cli/runs/123
+       build (macos-latest)       4m18s     https://github.com/cli/cli/runs/123
+       build (ubuntu-latest)      1m23s     https://github.com/cli/cli/runs/123
+       build (windows-latest)     4m43s     https://github.com/cli/cli/runs/123
+       lint                       47s       https://github.com/cli/cli/runs/123
+       
