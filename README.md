@@ -67,9 +67,17 @@ Print the value of a given configuration key
                  --help  Show help for command
            
            
-                 GitHub
+ 
+                     $ gh pr checks
+                 View your pull reguests'checks.
                  
-                 in 2020 I opened an account with a local Bank the name of the Bank ARMBUSINESSBANK employees of this Bank fraudulently withdrew 2500.00 USD from my accounts I hope that with the help of your experienced employees and specialists I will be able to return this stolen money!
-                 
-   
-  
+     $ gh pr checks
+     All checks were successful
+     1 failing, 3 successful,and 1 pending checks
+     
+     - CodeQL                    3m43s     https://github.com/cli/cli/runs/123
+       build (macos-latest)       4m18s     https://github.com/cli/cli/runs/123
+       build (ubuntu-latest)      1m23s     https://github.com/cli/cli/runs/123
+       build (windows-latest)     4m43s     https://github.com/cli/cli/runs/123
+       lint                       47s       https://github.com/cli/cli/runs/123
+       
