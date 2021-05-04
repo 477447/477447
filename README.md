@@ -84,4 +84,12 @@ Print the value of a given configuration key
  .github
  Increase linter timeout from 1min to 3min
  
-       
+.github/ISSUE_TEMPLATE/feature_reguest.md
+name: Feature reguest
+about: suggest an idea for this project
+title: ''
+- labels: ''
+- assignees" ''
++ labels: documentation
++ assignees: '477447'
++ 
