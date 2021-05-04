@@ -80,4 +80,8 @@ Print the value of a given configuration key
        build (ubuntu-latest)      1m23s     https://github.com/cli/cli/runs/123
        build (windows-latest)     4m43s     https://github.com/cli/cli/runs/123
        lint                       47s       https://github.com/cli/cli/runs/123
+ 
+ .github
+ Increase linter timeout from 1min to 3min
+ 
        
