@@ -127,3 +127,20 @@ Received:ARMM01
 325752 isyour verification code
 for industpro.ru.
 
+Gemfile
+Received: ABB Card
+
+560012 you code
+confirmattions for
+applications industpro.ru.
+
+From: Phone Code
+2021/05/07 12:09:35
+l should note that this is
+it's probably 20 now
+similar message
+which l do not know
+who sends the message?
+that you'll figure it out!
+
+
