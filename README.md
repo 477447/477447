@@ -120,3 +120,29 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Gemfile
+Received:ARMM01
+
+325752 isyour verification code
+for industpro.ru.
+
+Gemfile
+Received: ABB Card
+
+560012 you code
+confirmattions for
+applications industpro.ru.
+
+From: Phone Code
+2021/05/07 12:09:35
+l should note that this is
+it's probably 20 now
+similar message
+which l do not know
+who sends the message?
+that you'll figure it out!
+
+https://github.com/477447/477447/commit/ff9e6bf34fdf77d30912dob31a997772a984a
+db0
+
