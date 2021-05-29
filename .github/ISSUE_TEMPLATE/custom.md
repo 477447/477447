@@ -72,20 +72,7 @@ Issue default title: github.com/477447/477447/edit/main/.github/ISSUE_TEMPLATE/c
 Assignees: 477447
 Labels: documentation, duplicate, good first issue
 
-I must tell you that
-a few years ago
-I wrote a program
-by using
-python programs
-what with the help of
-my email address
-amesropyan61@yandex.ru
-I could do it every day
-earn approximately
-1000.00 USD per day
-but the problem is that
-I can't find it
-this program that
-already definitely there in the database
-data help me
-implement this program
+
+
+
+
