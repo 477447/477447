@@ -17,6 +17,9 @@ for my repositories every day
 BSD 2-Clause License
 
 Copyright (c) 2021, 477447
+
+print("Hello,World!!!")
+
 github.com/477447/477447/edit/main/.github/ISSUE_TEMPLATE/custom.md
 ALL rights reserved.
 
