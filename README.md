@@ -33,6 +33,9 @@ You will be prompted to either authenticate using your browser, or to paste a to
   
   GitHub GLI
   
+  mkdir actions-runner; cd actions-runner
+  
+  
   gh is GitHub on the command line. It brings pull reguests, issues, and other GitHub concepts to the terminal next to where you are already
   
   Installation
@@ -437,6 +440,8 @@ steps:
 
 - name: Perform CodeQL Analysis
   uses: github/codeql-action/analyze@v1
+                                     mkdir actions-runner; cd actions-runner
+                                     
                                      
 
                                      
