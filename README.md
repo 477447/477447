@@ -33,6 +33,9 @@ You will be prompted to either authenticate using your browser, or to paste a to
   
   GitHub GLI
   
+  mkdir actions-runner; cd actions-runner
+  
+  
   gh is GitHub on the command line. It brings pull reguests, issues, and other GitHub concepts to the terminal next to where you are already
   
   Installation
@@ -437,6 +440,27 @@ steps:
 
 - name: Perform CodeQL Analysis
   uses: github/codeql-action/analyze@v1
+                                     mkdir actions-runner; cd actions-runner
+                                     
+                                     <div class="cke_wysiwyg_div cke_reset cke_enable_context_menu
+cke_editable cke_editable_themed cke_contents_ltr" hidefocus="t
+rue" contenteditable=" true" tabindex="5" spellcheck="true"
+role=" textbox" aria - label>...</div> == $5
+</div>
+</div>
+</div>
+<div contenteditable=" false" tabindex=" -1" class="ComposeReact - Sign
+atureMenuAnchorNew ComposeReact - SignatureMenuAnchorNew_hidden"
+style="top: 48px; left: 87px;"></div>
+</div>
+</div>
+</div>
+<div class=" composeReact_scrollable - bottom - content - new"></div>
+</div>
+</div>
+
+
+                                     
                                      
 
                                      
