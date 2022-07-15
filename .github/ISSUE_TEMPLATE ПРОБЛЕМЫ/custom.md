@@ -76,9 +76,5 @@ Assignees: 477447
 Labels: documentation, duplicate, good first issue
 
 print("Hello,World!!!")
-def("ABB,Card,VISA,CLASSIC")
+def("INECOBANK")
 
-def("4722142100014850")
-def("04/25")
-
-def("ANUSHAVAN,MESROBYAN")
