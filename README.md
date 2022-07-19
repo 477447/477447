@@ -472,6 +472,39 @@ style="top: 48px; left: 87px;"></div>
                                      
 мне
 
+
+import PassKit
+
+
+
+
+typealias DollarItem - PaymentSummaryItem<USD>
+
+
+
+
+let items = [
+
+
+    
+    DollarItem(label: "Something fancy.", cost: 9.99),
+
+
+    
+    DollarItem(label: "Something less fancy.", cost: 5.99)
+
+
+
+]
+
+
+
+
+let request = PKPaymentReguest(items: items, sellerName: "Acme, Inc.") 
+
+
+
+
                                      
 
                                      
