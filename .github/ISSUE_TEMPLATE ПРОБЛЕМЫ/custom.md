@@ -48,7 +48,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 "[ Copyright (c) 2021, 477447 ]"
 "[ github.com/477447/477447/edit/main/.github/ISSUE_TEMPLATE/custom.md ]"
-"[ https://passport.yandex.ru/profile ]"
+print("Hello, World!") 
+
 "[ ALL rights reserved. ]"
 
 "[ Redistribution and use in source and binary forms, with or without ]"
@@ -78,3 +79,4 @@ Labels: documentation, duplicate, good first issue
 print("Hello,World!!!")
 def("INECOBANK")
 
+def("ARMBUSINESSBANK") 
