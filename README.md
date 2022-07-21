@@ -473,6 +473,10 @@ style="top: 48px; left: 87px;"></div>
 мне
 
 # INECOBANK 🐶🙋
-                                  
+                        Հաշվի համալրում
+
+print("Hello, World! ") 
+
+          
 
                                      
